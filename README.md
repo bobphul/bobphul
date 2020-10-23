@@ -6,7 +6,8 @@
 Welcome to my Github!
 - 🏙 I’m currently working on [Cyberlogitec](https://www.cyberlogitec.com)
 - 🏝 I’m currently exploring ☁`Cloud`.
-- 🌱 I’m currently learning `Golang` & `Terraform`.
+
+<!-- - 🌱 I’m currently learning `Golang` & `Terraform`. -->
 
 <!--
 Welcome to my Github! I like `Linux` and `FOSS`, and I'm exploring `Cloud Tech`  ☁️
