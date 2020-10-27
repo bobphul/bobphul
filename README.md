@@ -4,7 +4,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bobphul.gitbook.io/library/)](https://bobphul.gitbook.io/library/)
 
 Welcome to my Github!
-- 🏙 I’m currently working on [Cyberlogitec](https://www.cyberlogitec.com)
+<!-- - 🏙 I’m currently working on [Cyberlogitec](https://www.cyberlogitec.com) -->
 - 🏝 I’m currently exploring ☁`Cloud`.
 
 <!-- - 🌱 I’m currently learning `Golang` & `Terraform`. -->
