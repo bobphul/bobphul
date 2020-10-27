@@ -5,7 +5,7 @@
 
 Welcome to my Github!
 <!-- - 🏙 I’m currently working on [Cyberlogitec](https://www.cyberlogitec.com) -->
-- 🏝 I enjoy currently exploring ☁`Cloud`.
+- 🏝 I'm currently exploring ☁`Cloud`.
 
 <!-- - 🌱 I’m currently learning `Golang` & `Terraform`. -->
 
